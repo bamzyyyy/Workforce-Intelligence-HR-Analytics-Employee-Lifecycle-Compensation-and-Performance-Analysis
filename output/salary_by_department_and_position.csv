@@ -1,0 +1,32 @@
+Department,Position,EmployeeCount,TotalRecordedSalary,MeanSalary,MedianSalary,SalaryCostSharePct
+Production,Production Technician I,137,7606812,55524.175182481755,55425.0,35.44
+Production,Production Technician II,57,3698856,64892.21052631579,64995.0,17.23
+Sales,Area Sales Manager,27,1753179,64932.555555555555,63695.0,8.17
+Production,Production Manager,14,1054123,75294.5,74928.5,4.91
+Software Engineering,Software Engineer,10,967192,96719.2,97470.0,4.51
+IT/IS,Data Analyst,8,718055,89756.875,89587.5,3.35
+IT/IS,Database Administrator,5,542498,108499.6,110000.0,2.53
+IT/IS,IT Support,8,509475,63684.375,66150.0,2.37
+IT/IS,Sr. Network Engineer,5,465354,93070.8,92329.0,2.17
+IT/IS,BI Developer,4,381860,95465.0,96370.0,1.78
+IT/IS,Network Engineer,5,308025,61605.0,53366.0,1.43
+IT/IS,IT Manager - DB,2,289919,144959.5,144959.5,1.35
+IT/IS,Senior BI Developer,3,254408,84802.66666666667,84903.0,1.19
+Executive Office,President & CEO,1,250000,250000.0,250000.0,1.16
+IT/IS,CIO,1,220450,220450.0,220450.0,1.03
+Sales,Sales Manager,3,207720,69240.0,68999.0,0.97
+Admin Offices,Sr. Accountant,2,205718,102859.0,102859.0,0.96
+IT/IS,Sr. DBA,2,204468,102234.0,102234.0,0.95
+Admin Offices,Accountant I,3,190523,63507.666666666664,63003.0,0.89
+Sales,Director of Sales,1,180000,180000.0,180000.0,0.84
+IT/IS,IT Director,1,178000,178000.0,178000.0,0.83
+Production,Director of Operations,1,170500,170500.0,170500.0,0.79
+IT/IS,IT Manager - Infra,1,157000,157000.0,157000.0,0.73
+Admin Offices,Administrative Assistant,3,156840,52280.0,51920.0,0.73
+IT/IS,Data Architect,1,150290,150290.0,150290.0,0.7
+IT/IS,IT Manager - Support,1,138888,138888.0,138888.0,0.65
+IT/IS,Principal Data Architect,1,120000,120000.0,120000.0,0.56
+IT/IS,BI Director,1,110929,110929.0,110929.0,0.52
+IT/IS,Enterprise Architect,1,103613,103613.0,103613.0,0.48
+Admin Offices,Shared Services Manager,1,93046,93046.0,93046.0,0.43
+Software Engineering,Software Engineering Manager,1,77692,77692.0,77692.0,0.36

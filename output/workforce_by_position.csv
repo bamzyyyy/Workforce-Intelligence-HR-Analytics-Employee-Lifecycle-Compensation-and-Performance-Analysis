@@ -1,0 +1,35 @@
+PositionID,Position,TotalEmployees,ActiveEmployees,TerminatedEmployees
+19,Production Technician I,137,85,52
+20,Production Technician II,57,31,26
+3,Area Sales Manager,27,23,4
+18,Production Manager,13,8,5
+24,Software Engineer,9,6,3
+14,IT Support,8,8,0
+9,Data Analyst,7,6,1
+28,Sr. Network Engineer,5,5,0
+15,Network Engineer,5,4,1
+8,Database Administrator,5,2,3
+4,BI Developer,4,4,0
+1,Accountant I,3,3,0
+2,Administrative Assistant,3,1,2
+21,Sales Manager,3,2,1
+22,Senior BI Developer,3,3,0
+27,Sr. DBA,2,1,1
+13,IT Manager - DB,2,1,1
+26,Sr. Accountant,2,2,0
+13,IT Manager - Infra,1,1,0
+13,IT Manager - Support,1,1,0
+11,Director of Sales,1,1,0
+12,IT Director,1,1,0
+10,Director of Operations,1,1,0
+5,BI Director,1,1,0
+7,Data Architect,1,1,0
+9,Data Analyst ,1,0,1
+6,CIO,1,1,0
+23,Shared Services Manager,1,1,0
+17,Production Manager,1,1,0
+16,President & CEO,1,1,0
+25,Software Engineering Manager,1,1,0
+23,Software Engineer,1,0,1
+29,Principal Data Architect,1,0,1
+30,Enterprise Architect,1,0,1
